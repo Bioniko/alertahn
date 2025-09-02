@@ -5,7 +5,7 @@ require 'vendor/autoload.php'; // si usas Composer
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     // --- Validación reCAPTCHA ---
-    $secretKey = "6LcbxrorAAAAAILU6ceqpiEYvX1Mqf2ChTluHvcp"; // clave secreta
+    $secretKey = "6LcbxrorAAAAAPk4eN8o8twXWkwf3HkdmScwV4Td"; // clave secreta
     $responseKey = $_POST['g-recaptcha-response'] ?? '';
     $userIP = $_SERVER['REMOTE_ADDR'];
 

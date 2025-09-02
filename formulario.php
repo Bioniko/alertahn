@@ -150,7 +150,7 @@ button:hover {
         <textarea id="mensaje" name="mensaje" placeholder="¡Cuéntanos qué servicio te interesa!" required></textarea>
       </div>
       <!-- Aquí va el reCAPTCHA -->
-      <div class="g-recaptcha" data-sitekey="6Lcbo6srAAAAADYwIJOuornEfOEb0pOF4wW-3cSN"></div>
+      <div class="g-recaptcha" data-sitekey="6LcbxrorAAAAAILU6ceqpiEYvX1Mqf2ChTluHvcp"></div>
       <div class="form-submit">
         <button type="submit">Enviar mensaje</button>
       </div>
