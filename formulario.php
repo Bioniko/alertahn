@@ -124,7 +124,7 @@ button:hover {
       <h2 style="color: #fff">«Alerta Security Group proporciona servicios de seguridad de primera categoría. Altamente recomendado». Expreco S.de R.L</h2>
     </div>
 
-    <form class="contact-form" method="post" action="https://alertahn.com/">
+    <form class="contact-form" method="post" action="enviar_formulario.php">
       <div class="form-group half">
         <label for="nombre">Nombre:</label>
         <input type="text" id="nombre" name="nombre" placeholder="Nombre" required>
